@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">My App10</string>
+    <string name="title_activity_tela_mapa">Map</string>
+    <string name="button_send">Send</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="title_activity_botao">botao</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
 </resources>
